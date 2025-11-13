@@ -76,30 +76,18 @@ A sleek, feature-rich finance tracker built with Flutter. Track your income, exp
 ## 🚀 Setup and Run Instructions
 
 ### 1. Clone the Repository
-
 git clone https://github.com/Yashuppal-15/Finance-Tracker.git
 cd Finance-Tracker
 
-text
-
 ### 2. Install Dependencies
-
 flutter pub get
 
-text
-
 ### 3. Run the App
-
 flutter run
-
-text
 - Select your target device (web, Windows, Android, iOS).
 
 ### 4. Build for Production
-
 flutter build web
-
-text
 
 ---
 
@@ -127,20 +115,15 @@ MIT
 1. Initialize Git:
 git init
 
-text
 2. Add and commit changes:
 git add .
 git commit -m "Initial commit"
 
-text
 3. Link to your repo:
 git remote add origin https://github.com/Yashuppal-15/Finance-Tracker.git
 
-text
 4. Push to GitHub:
 git push -u origin main
-
-text
 
 ---
 
@@ -151,3 +134,5 @@ For questions or feedback, reach out to me on GitHub or via email.
 ---
 
 ✨ **Happy tracking!**
+
+
