@@ -1,4 +1,4 @@
-# Zeyro Finance Tracker
+# Finance Tracker
 
 A modern, feature-rich finance tracker app built with Flutter. Track your income, expenses, and view analytics with a clean, organized UI.
 
@@ -21,8 +21,8 @@ A modern, feature-rich finance tracker app built with Flutter. Track your income
 ## Setup and Run Instructions
 
 1. **Clone the repository:**
-git clone https://github.com/yourusername/zeyro_finance_tracker.git
-cd zeyro_finance_tracker
+git clone https://github.com/yourusername/Finance-Tracker.git
+cd Finance-Tracker
 
 2. **Install dependencies:**
 flutter pub get
